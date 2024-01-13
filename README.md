@@ -4,3 +4,4 @@ I have purchased and been going through the online course: "The Complete Network
 
 ### OSI and TCP/IP Models
 
+![OSI and TCP-IP Models](https://github.com/SartJ/Networking-Fundamentals/assets/30133488/f179138e-94e2-4cbb-a421-e4bcb8f838c8)
